@@ -15,6 +15,10 @@ A collection of workflow implementations built using LangGraph, LangChain, and G
 * Parallel Batsman Analysis
 * Parallel UPSC Essay Evaluation
 
+### Conditional Workflows
+- Quadratic Equation Workflow
+- Customer Review Reply Workflow
+
 ## Tech Stack
 
 * Python
@@ -26,13 +30,15 @@ A collection of workflow implementations built using LangGraph, LangChain, and G
 
 ## Concepts Covered
 
-* State Management
-* Graph Compilation
-* Sequential Execution
-* Parallel Execution
-* Structured Output Generation
-* Workflow Orchestration
-* LLM Integration
+- State Management
+- Sequential Workflows
+- Parallel Workflows
+- Conditional Workflows
+- Conditional Routing
+- Structured Outputs
+- Workflow Orchestration
+- LangGraph StateGraph
+- Groq Integration
 
 ## Repository Structure
 
