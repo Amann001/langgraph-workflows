@@ -19,6 +19,9 @@ A collection of workflow implementations built using LangGraph, LangChain, and G
 - Quadratic Equation Workflow
 - Customer Review Reply Workflow
 
+### Iterative Workflows
+- Iterative Tweet Generation
+
 ## Tech Stack
 
 * Python
@@ -34,11 +37,11 @@ A collection of workflow implementations built using LangGraph, LangChain, and G
 - Sequential Workflows
 - Parallel Workflows
 - Conditional Workflows
-- Conditional Routing
+- Iterative Workflows
+- Feedback Loops
 - Structured Outputs
 - Workflow Orchestration
-- LangGraph StateGraph
-- Groq Integration
+- LLM Integration
 
 ## Repository Structure
 
