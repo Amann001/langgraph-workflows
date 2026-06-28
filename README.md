@@ -22,6 +22,9 @@ A collection of workflow implementations built using LangGraph, LangChain, and G
 ### Iterative Workflows
 - Iterative Tweet Generation
 
+### Conversational Workflows
+- Chatbot with Memory (In-Memory Persistence)
+
 ## Tech Stack
 
 * Python
@@ -38,7 +41,10 @@ A collection of workflow implementations built using LangGraph, LangChain, and G
 - Parallel Workflows
 - Conditional Workflows
 - Iterative Workflows
-- Feedback Loops
+- Conversational State Management
+- Message History
+- Memory Persistence
+- MemorySaver Checkpointer
 - Structured Outputs
 - Workflow Orchestration
 - LLM Integration
