@@ -87,6 +87,11 @@ A collection of workflow implementations built using LangGraph, LangChain, and G
 03_prompt_chaining.ipynb
 04_parallel_batsman_analysis.ipynb
 05_parallel_essay_evaluation.ipynb
+06_quadratic_equation_workflow.ipynb
+07_review_reply_workflow.ipynb
+08_post_generator_iterative_workflow.ipynb
+09_ChatBot_with_memory.ipynb
+10_persistence.ipynb
 ```
 
 ## Future Additions
