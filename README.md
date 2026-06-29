@@ -25,6 +25,12 @@ A collection of workflow implementations built using LangGraph, LangChain, and G
 ### Conversational Workflows
 - Chatbot with Memory (In-Memory Persistence)
 
+### Persistence & Time Travel
+
+- Chatbot with Persistent Memory
+- Thread-based Conversation State
+- Time Travel using Checkpoints
+
 ## Tech Stack
 
 * Python
@@ -41,6 +47,16 @@ A collection of workflow implementations built using LangGraph, LangChain, and G
 - Parallel Workflows
 - Conditional Workflows
 - Iterative Workflows
+- Persistence
+- MemorySaver Checkpointer
+- Thread IDs
+- Conversation Memory
+- Checkpointing
+- Time Travel
+- Human-in-the-Loop
+- Fault Tolerance
+- Workflow Recovery
+- Interrupts
 - Conversational State Management
 - Message History
 - Memory Persistence
@@ -48,6 +64,20 @@ A collection of workflow implementations built using LangGraph, LangChain, and G
 - Structured Outputs
 - Workflow Orchestration
 - LLM Integration
+
+## LangGraph Features Explored
+
+- StateGraph
+- Sequential Workflows
+- Parallel Workflows
+- Conditional Routing
+- Iterative Workflows
+- Structured Outputs
+- Persistent Memory
+- Time Travel
+- Human-in-the-Loop
+- Checkpointing
+- Thread-based State Management
 
 ## Repository Structure
 
